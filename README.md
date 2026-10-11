@@ -2,7 +2,7 @@
 
 Official device releases for Juno. Application source is maintained privately.
 
-Installable builds will appear on the [Releases page](https://github.com/Ciani01-Organziation/juno-downloads/releases) after verification. There is no verified native Android release available yet.
+Early Android test builds are available on the [Releases page](https://github.com/Ciani01-Organziation/juno-downloads/releases). Read the tested features and limitations before installing. There is no production Android release yet.
 
 ## Android
 
